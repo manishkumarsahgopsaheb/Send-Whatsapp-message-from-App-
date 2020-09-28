@@ -21,7 +21,7 @@ Button btn;
 
 
         btn = (Button) findViewById(R.id.btn);
-
+// here,  you can also take the custom input from the user for country code, mobile number and text message
         final String num = "+917070989869";
         final String text = "Hello!";
 
